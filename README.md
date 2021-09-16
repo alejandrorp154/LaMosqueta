@@ -1,2 +1,4 @@
-# LaMosqueta
-Tarea Principios de Programacion - Tecnologo en Informatica
+# La Mosqueta
+Tarea Principios de Programacion - Tecnólogo en Informatica
+
+Juego La Mosqueta en C++ 
